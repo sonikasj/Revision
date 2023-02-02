@@ -31,7 +31,7 @@ public class practice1 {
 		     private static int multiplication(int x,int y) {
 		    	 
 				return x*y;
-		    int a =20 	 
+		   	 
 	}
-
+int a =2;
 }
